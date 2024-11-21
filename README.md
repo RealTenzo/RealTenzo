@@ -2,7 +2,7 @@
 
 Thanks for checking out my GitHub profile! I’m passionate about coding and tech, and I’m always learning, experimenting, and building cool things with new tools and projects.
 
-Currently, I’m diving deep into **C#**, but I’m also exploring **C++** and **Python**. I’ve been working on some interesting projects using **WinForms**, **GitHub Actions**, and **Guna UI**. Right now, I’m developing a project with features like **memory manipulation** and **DLL injection**. I love experimenting with tools like **EasyHook** and **Reloaded.Injector** to make things work even better.
+Currently, I’m Focused in **C#**, but I’m also exploring **C++** and **Python**. I’ve been working on some interesting projects using **WinForms**, **GitHub Actions**, and **Guna UI**. Right now, I’m developing a project with features like **memory manipulation** and **DLL injection**. I love experimenting with tools like **EasyHook** and **Reloaded.Injector** to make things work even better.
 
 I’m in 8th grade and while I’m totally hooked on coding, I’ll be honest – studying isn't my favorite thing. 😊 But I enjoy building tools that make life more efficient and add a bit of fun along the way!
 
