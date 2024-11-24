@@ -10,6 +10,7 @@ I’m in 8th grade and while I’m totally hooked on coding, I’ll be honest �
 - **NITRO GEN USING PYTHON**  
 - **DLL INJECTOR USING C#**
 - **Windows Activator Using Batch**
+- **Mouse And Keyboard Optimizer Using Batch**
 
 
 ### 🛠️ Skills & Tools:
