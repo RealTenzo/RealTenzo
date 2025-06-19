@@ -53,11 +53,11 @@ def goals():
 
 ### ⚡ GitHub Stats
 
-* C# (75%)
-* C++ (65%)
-* Web Dev (80%)
+- **C#** – Experienced in building Windows Forms tools, DLL injectors, authentication systems, and memory editors.
+- **C++** – Skilled in low-level programming, DLL injection, emulator memory patching, and reverse engineering.
+- **Web Development** – Proficient in creating responsive UIs with HTML, CSS, and JavaScript. Comfortable building static sites and frontend dashboards.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RealTenzo\&theme=radical\&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=RealTenzo&theme=radical&border_radius=10)
 
 ---
 
