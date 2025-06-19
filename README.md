@@ -47,7 +47,7 @@ def goals():
 
 ### 📬 Connect With Me
 
-[Portfolio](https://tenzoxbio.netlify.app/) | [Discord](https://discord.com/users/yourid)
+[Contacts](https://tenzoxbio.netlify.app/)
 
 ---
 
