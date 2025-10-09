@@ -4,7 +4,7 @@ Hey, I'm RealTenzo!
 🚀 About Me
 
 
-+ Age: 17 | Bangladesh 🇧🇩 
++ Age: 16 | Bangladesh 🇧🇩 
 + Stacks: C#, C++, HTML/CSS/JS 
 ! Learning: Python 🐍 | Open to Mentorship!
 ````
