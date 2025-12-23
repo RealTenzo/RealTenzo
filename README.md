@@ -1,7 +1,7 @@
 # 👋 Hey, I'm RealTenzo!
 
 ## 🚀 About Me
-- **Age:** 16 | **Location:** Bangladesh 🇧🇩
+- **Age:** 17 | **Location:** Bangladesh 🇧🇩
 - **Current Focus:** Full-stack development & AI/ML exploration
 - **Status:** Open to collaboration and mentorship opportunities!
 
@@ -34,114 +34,123 @@ int main() {
 ```
 
 ```python
-# Python Enthusiast 🐍
+# Python Developer 🐍
 class CurrentSkills:
     def __init__(self):
         self.level = "Proficient"
         self.domains = [
-            "AI/ML Fundamentals",
+            "AI/ML Development",
+            "Backend APIs (FastAPI/Flask)",
             "Data Analysis & Automation",
-            "Backend Development",
-            "Scripting & Tooling"
+            "Scripting & Tool Development"
         ]
     
     def showcase(self):
-        return "Confident in building Python applications!"
+        return "Building robust Python applications!"
 ```
 
-### 🌐 Web Development Stack
+### 🌐 Full-Stack Development
 ```javascript
-// Modern Web Development
+// Modern Full-Stack Development
 const skills = {
     frontend: {
         core: ["HTML5", "CSS3", "JavaScript (ES6+)"],
-        frameworks: ["React", "Vite"],
+        frameworks: ["React", "Vite", "Next.js"],
         styling: ["Tailwind CSS", "Styled Components"],
-        stateManagement: ["React Hooks", "Context API"]
+        stateManagement: ["React Hooks", "Context API", "Zustand"]
     },
-    deployment: ["Netlify", "Vercel", "GitHub Pages"],
-    tools: ["Git", "npm/yarn", "VS Code", "Chrome DevTools"]
+    backend: {
+        runtime: ["Node.js", "Express.js"],
+        databases: ["MongoDB", "PostgreSQL", "SQLite"],
+        authentication: ["JWT", "OAuth", "Passport.js"]
+    },
+    deployment: ["Vercel", "Railway", "Docker", "GitHub Actions"],
+    tools: ["Git", "npm/pnpm", "VS Code", "Postman", "Chrome DevTools"]
 };
 ```
 
 ## 🚀 Current Projects & Learning
 
 ### 📚 Actively Learning
-- **Advanced React Patterns** (Custom Hooks, Performance Optimization)
-- **Full-Stack Development** with React + Backend APIs
-- **AI/ML Practical Applications** with Python
-- **TypeScript** for better code quality
+- **Advanced React/Next.js** (Server Components, App Router)
+- **Full-Stack Architecture** (Microservices, API Design)
+- **Advanced Python** (Async Programming, ML Ops)
+- **TypeScript** (Advanced Types, Type Safety)
+- **DevOps Basics** (Docker, CI/CD, Cloud Deployment)
 
-### 🎯 Goals for 2024
-1. ✅ Master Python for AI/ML projects
-2. 🔄 Build production-ready React applications
-3. 🔄 Contribute to meaningful open-source projects
-4. 🔄 Learn backend development (Node.js/Express or Django)
-5. 🔄 Explore cloud deployment (AWS/DigitalOcean)
+### 🎯 Goals for 2026
+1. ✅ Master Python & AI/ML development
+2. ✅ Learn Node.js/Express backend
+3. 🔄 Build complex full-stack applications
+4. 🔄 Contribute significantly to open-source
+5. 🔄 Master cloud deployment & DevOps
+6. 🔄 Explore systems programming (Rust/Go)
 
-## 💼 Recent Experience
+## 💼 Technical Expertise
 
-### 🔧 Technical Skills Breakdown
+### 🔧 Skills Breakdown
 
 #### **C# Expertise** (Advanced)
-- Windows desktop applications
-- Game modification tools
-- System-level programming
-- DLL manipulation and injection
+- Windows desktop applications & utilities
+- Game modification & reverse engineering tools
+- System-level programming & DLL manipulation
+- Authentication & security systems
 
 #### **C++** (Intermediate-Advanced)
-- Low-level memory operations
-- Reverse engineering basics
-- Performance-critical applications
+- Low-level memory operations & optimization
+- Reverse engineering & game hacking
+- Performance-critical system applications
 
 #### **Python** (Proficient)
-- Data processing and automation
-- AI/ML model experimentation
-- Web scraping and APIs
-- Script development
+- AI/ML model development & experimentation
+- Backend API development (FastAPI/Flask)
+- Data processing, automation & web scraping
+- Production-ready script & tool development
 
-#### **Web Development** (Intermediate)
-- **React + Vite** for modern web apps
-- Responsive UI/UX design
-- Component-based architecture
-- Static site generation
+#### **Full-Stack Development** (Intermediate-Advanced)
+- **Frontend:** React, Vite, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs
+- **Databases:** MongoDB, PostgreSQL, ORMs
+- **Tools:** Git, Docker, CI/CD pipelines
 
 ## 📈 GitHub Stats & Activity
 
-![RealTenzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealTenzo&show_icons=true&theme=radical&border_radius=10)
+![RealTenzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealTenzo&show_icons=true&theme=radical&border_radius=10&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealTenzo&layout=compact&theme=radical&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealTenzo&layout=compact&theme=radical&border_radius=10&hide_title=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RealTenzo&theme=radical&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=RealTenzo&theme=radical&border_radius=10&hide_title=true)
 
 ## 📂 Featured Projects
 
 ### 🎯 Current Focus
-- **React Portfolio** – Modern portfolio with Vite
-- **AI Tools** – Python-based ML experiments
-- **Utility Libraries** – C#/Python tools for developers
+- **Full-Stack Applications** – React + Node.js + Database
+- **AI/ML Tools** – Practical Python applications
+- **Developer Tools** – C#/Python utilities for productivity
+- **Open Source Contributions** – Actively contributing to projects
 
 ### 🌟 Recent Achievements
-- Successfully transitioned to modern React development
-- Built multiple production-ready web applications
-- Expanded Python skills beyond basics to practical applications
+- Successfully transitioned to full-stack development
+- Built production-ready applications with modern stacks
+- Mastered Python for both AI/ML and backend development
+- Gained proficiency in Node.js/Express ecosystem
 
 ## 📬 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tenzoxbio.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RealTenzo)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/your_id)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RealTenzo)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1139342141262467133)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tenzoaoki@gmail.com)
 
 ---
 
 ## 🎯 Looking Forward To
-- Collaborating on interesting projects
-- Mentoring beginners in C#/Python
-- Contributing to open-source
-- Learning from experienced developers
+- Collaborating on innovative full-stack projects
+- Contributing to meaningful open-source software
+- Mentoring beginners in programming
+- Building scalable applications with modern technologies
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E45E2&center=true&vCenter=true&width=435&lines=Let's+build+something+awesome!;Open+to+collaborations+%3A);React+%7C+Python+%7C+C%23+Developer;DM+me+on+Discord!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E45E2&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Python+%7C+C%23;Open+to+collaborations!;Building+the+future+with+code" alt="Typing SVG" />
 </a>
 
 ---
