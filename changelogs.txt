@@ -1,0 +1,29 @@
+v1.3.0 | Feb 22, 2026
+- Monaco IntelliSense fixed (z-index overlap + wildcard CSS removed)
+- ScriptBlox API corrected to /api/script/fetch with pagination (3 pages)
+- Script Hub card layout fixed — buttons no longer clipped
+- Multi-source hub: ScriptBlox, RScripts, Hub Picks
+- Script preview popup shows loadstring line before loading
+- Custom tab rename modal replaces browser prompt
+- Changelog now loads from GitHub raw URL
+- Added executor globals: Drawing.new, hookfunction, syn.*, rconsole*, debug.*
+
+v1.2.0 | Feb 22, 2026
+- WebSocket architecture — host anywhere, connect via local exe
+- Custom SVG hexagon logo replacing generic box icon
+- Disconnected overlay with auto-reconnect animation
+- Monaco autocomplete text color initial fix
+
+v1.1.0 | Feb 21, 2026
+- Multi-tab editor with save/restore view state
+- Script Hub with ScriptBlox integration
+- Monaco IntelliSense with Lua + Roblox completions
+- Console output panel with log types (info, warn, error, success, sys)
+- Inject overlay animation with progress steps
+- Toast notification system
+
+v1.0.0 | Feb 20, 2026
+- Initial release
+- Basic Monaco editor
+- WebSocket connection to executor
+- Inject and Execute buttons
